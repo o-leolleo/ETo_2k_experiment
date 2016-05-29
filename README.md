@@ -4,7 +4,7 @@ O script realiza um experimento fatorial 2^k para a evapotranspiração da cultu
 </br></br>
 
 To do:
-- [] adicionar links úteis
-- [] adicionar documentação explicando cada função
+- [ ] adicionar links úteis
+- [ ] adicionar documentação explicando cada função
 
 ![GPL logo](http://www.gnu.org/graphics/gplv3-88x31.png)
