@@ -2,7 +2,7 @@
 #    script R para realizar experimentos fatoriais 2^k sobre o valor 
 #    da evapotranspiração da cultura de referência
 #
-#    Copyright (C) 2015 Leonardo Cavalcante <leolleo.comp@gmail.com>    
+#    Copyright (C) 2015 Leonardo Cavalcante do Prado <leolleo.comp@gmail.com>    
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
